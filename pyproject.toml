@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-charsheet"
+description = "Character sheet compositor and small utilities for ComfyUI (5-view turnaround sheets)"
+version = "1.0.0"
+license = { text = "MIT License" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/huchukato/ComfyUI-CharSheet"
+
+[tool.comfy]
+PublisherId = "huchukato"
+DisplayName = "ComfyUI CharSheet"
+Icon = ""
