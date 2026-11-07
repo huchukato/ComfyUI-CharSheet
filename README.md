@@ -1,3 +1,14 @@
+# 🎨 ComfyUI CharSheet
+
+**5-view character sheets for ComfyUI** — close-up, front, left profile, right profile, back on one canvas, ready for keyframe/IC-LoRA pipelines.
+
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![version](https://img.shields.io/badge/version-1.0.0-brightgreen)](pyproject.toml)
+[![Registry](https://img.shields.io/badge/ComfyUI_Registry-install_from_Manager-8A2BE2)](https://registry.comfy.org/publishers/huchukato/nodes/comfyui-charsheet)
+[![stars](https://img.shields.io/github/stars/huchukato/ComfyUI-CharSheet?style=social)](https://github.com/huchukato/ComfyUI-CharSheet/stargazers)
+
+![ComfyUI CharSheet](banner.png)
+
 # ComfyUI CharSheet
 
 Small ComfyUI nodes for building 5-view character sheets (close-up, front, left profile, right profile, back) — designed for Qwen Image Edit / image-edit turnaround pipelines, works with any IMAGE source.
