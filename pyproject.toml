@@ -11,4 +11,5 @@ Repository = "https://github.com/huchukato/ComfyUI-CharSheet"
 [tool.comfy]
 PublisherId = "huchukato"
 DisplayName = "ComfyUI CharSheet"
-Icon = ""
+Icon = "https://raw.githubusercontent.com/huchukato/ComfyUI-CharSheet/main/icon.png"
+Banner = "https://raw.githubusercontent.com/huchukato/ComfyUI-CharSheet/main/banner.png"
